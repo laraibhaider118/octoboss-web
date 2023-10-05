@@ -1,0 +1,9 @@
+<?php
+include("tracker_help_files/control.php");
+	$_SESSION['sess_admin_id']='';
+	$_SESSION['user_email']='';
+	$_SESSION['last_login']='';
+	$_SESSION['user_name']='';
+	header("Location:".SITE_URL);
+	exit;
+?>

@@ -1,0 +1,30 @@
+.reports_bg{
+    background: #f9f7f7;
+    border-radius: 20px;
+    padding: 30px 10px;
+    text-align: center;
+    box-shadow: 1px 1px 3px 3px #e3e9e3;
+}
+.red_btn{
+    background-color: red !important;
+}
+.green_btn{
+background-color: green !important;
+}
+.yellow_btn{
+    background-color: yellowgreen !important;
+}
+.blue_btn{
+    background-color: blueviolet !important;
+}
+.image_box{
+    padding: 15px 5px;
+    text-align: center;
+    margin: 0px 0 15px;
+}
+.image_box img{
+    width: auto;
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
